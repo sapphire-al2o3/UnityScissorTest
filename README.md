@@ -1,0 +1,3 @@
+# UnityScissorTest
+
+`CommandBuffer.EnableScissorRect` のテスト
